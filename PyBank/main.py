@@ -1,11 +1,6 @@
 # PyBank Week 3 Challenge
 
 # Create script that does the following:
-
-    
-    
-    
-   
 import os
 import csv
 
